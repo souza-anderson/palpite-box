@@ -12,14 +12,15 @@
   "author": "Anderson Felipe",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^9.8.6",
-    "google-spreadsheet": "^3.0.2",
+    "autoprefixer": "^10.2.4",
+    "google-spreadsheet": "^3.1.15",
     "moment": "^2.29.1",
     "next": "^10.0.4",
+    "postcss": "^8.2.6",
     "postcss-import": "^14.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "swr": "^0.4.2",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.0.3"
   }
 }
