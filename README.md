@@ -1,8 +1,8 @@
-# PalpiteBox - Curso Full Stack Master
+# PalpiteBox - Treinamento Full Stack Master
 
 [![HitCount](https://hits.dwyl.com/souza-anderson/souza-anderson/palpite-box.svg)](https://hits.dwyl.com/souza-anderson/souza-anderson/palpite-box)
 
-Este projeto foi construído a partir curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.souza-anderson.vercel.app/.
+Este projeto foi construído a partir treinamento Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.souza-anderson.vercel.app/.
 
 ![Preview](https://github.com/souza-anderson/palpite-box/blob/master/print.png?raw=true)
 
@@ -48,5 +48,5 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE](LICENSE) para m
 
 ## Acknowledgments
 
-* Este projeto foi construído durante o curso Full Stack Master do [DevPleno](https://devpleno.com).
+* Este projeto foi construído durante o treinamento Full Stack Master do [DevPleno](https://devpleno.com).
 
