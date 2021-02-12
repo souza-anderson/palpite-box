@@ -4,7 +4,7 @@
 
 Este projeto foi construído a partir treinamento Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.souza-anderson.vercel.app/.
 
-![Preview](https://github.com/souza-anderson/palpite-box/blob/master/print.png?raw=true)
+![Preview](https://github.com/souza-anderson/palpite-box/blob/master/print.PNG?raw=true)
 
 ## Início
 
