@@ -1,6 +1,6 @@
 # PalpiteBox - Treinamento Full Stack Master
 
-[![HitCount](http://hits.dwyl.com/souza-anderson/palpite-box.svg)](http://hits.dwyl.com/souza-anderson/palpite-box)
+[![HitCount](http://hits.dwyl.com/souza-anderson/souza-anderson/palpite-box.svg)](http://hits.dwyl.com/souza-anderson/souza-anderson/palpite-box)
 
 Este projeto foi construído a partir treinamento Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.souza-anderson.vercel.app/.
 
